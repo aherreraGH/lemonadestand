@@ -1,4 +1,0 @@
-lemonadestand
-=============
-
-Lemonade Stand
